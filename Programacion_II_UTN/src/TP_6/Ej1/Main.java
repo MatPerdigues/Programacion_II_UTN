@@ -78,5 +78,7 @@ public class Main {
         inventario1.mostrarCategoriasDisponibles();
         System.out.println("");
         System.out.println("");
+        
+
     }
 }
